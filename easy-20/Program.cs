@@ -11,7 +11,6 @@ namespace easy_20
         static void Main(string[] args)
         {
             Stack<char> stack = new Stack<char>();
-            
             Console.WriteLine(IsValid("(])"));
             Console.ReadKey();
         }
