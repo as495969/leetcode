@@ -11,6 +11,7 @@ namespace easy_9
         static void Main(string[] args)
         {
             //测试
+
         }
         public static bool IsPalindrome(int x)
         {
